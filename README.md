@@ -12,4 +12,6 @@
 
 ## ZI_02 - Dátové štruktúry a algoritmy
 
-...
+| Číslo | Téma | Súbor |
+|---:|---|---|
+| 1 | Smerníky a dynamické údaje v jazyku C++ | [Otvoriť](./ZI_02_01.md) |
